@@ -1,0 +1,9 @@
+  =>  Template Name    : AI.Tech - Artificial Intelligence HTML Template
+
+  =>  Template Link    : /artificial-intelligence-html-template
+
+  =>  Template License : /license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : 
